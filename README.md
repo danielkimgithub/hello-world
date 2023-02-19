@@ -1,9 +1,9 @@
-# hello-world
+#hello-world
+#testrepository
 First Repository
 
 Hey Fam,
 
-I'm just out here to make a living, to be somebody, to be myself.
+I'm out here to always be learning, to be somebody, to be myself.
 Life is full of opportunities, take it when you can.
-I am hoping that I make commit messages in the editor as well, but I added new descriptions
-to the readme repository.
+I am hoping that I learn some basic and common github commands such as but not limited to init, add, status, commit, reeat, log, branch, checkout, and merge.
